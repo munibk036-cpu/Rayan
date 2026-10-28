@@ -1,0 +1,6 @@
+{
+  "name": "Rayan Culture Explorer",
+  "description": "Explore cultures, traditions, clothing, food, and heritage through images.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
